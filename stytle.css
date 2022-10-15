@@ -1,0 +1,8 @@
+h1{
+    border-left: 10px solid #CC3366;
+    border-bottom: 1px dashed #CC3366; /* 下ボーダーを、1px幅の破線、線色#CC3366に */
+}
+h2{
+    border-left: 10px solid #40d62c;
+    border-bottom: 1px dashed #40d62c;
+}
